@@ -1,0 +1,134 @@
+body{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+text-align: center;
+}
+header>img{
+  width: 100vw;
+  height: 50vh;
+}
+.head-line{
+  font-size: 26px; 
+  margin-top: -200px; 
+  color: white;
+}
+.head-line-p{
+  font-size: 17px;
+  color: white;  
+  padding: 20px 25px;
+  margin-bottom: 30px;
+}
+.btn{
+   color: rgb(255, 254, 254);
+   text-decoration: none;
+   padding: 10px 20px;
+   border: 2px solid white;
+   background-color: rgb(50, 56, 56);
+}
+.heading{
+  color:black;
+  font-size: 25px;
+  padding: 25px 0;
+}
+.body{
+  width: 100vw;
+  margin-top: 50px;
+  text-align: center;
+  background-color: rgb(57, 59, 59);
+}
+img{
+  width: 25vw;
+}
+.top-text{
+  width: 100vw;
+  background-color: white;
+}
+.top-left{
+  max-width: 250px;
+  display: inline-block;
+  margin: 0 25px 15px 0;
+  text-align: justify;
+}
+.top-right{
+  display: inline-block;
+text-align: justify;
+max-width: 250px;
+}
+.center-block-box{
+  display: inline-block;
+  max-width: 150px;
+  margin: 25px 0 10px 25px;
+  background-color: #fff;
+text-align: justify;
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+section > img{
+  width: 100%;
+}
+section > span{
+  padding: 10px;
+}
+.sub-title{
+  text-align: center;
+  margin: 20px 0;
+  font-size: 15px;
+  font-weight: bold;
+}
+.center-block-bottom{
+  background-color: white;
+  padding: 25px;
+  font-size: 15px;
+}
+.center-block-bottom{
+ text-align: center;
+}
+.about-us{
+  box-sizing: border-box;
+  text-align: center;
+  color: #fff;
+ font-size: 0;
+}
+.about-left{
+display: inline-block;
+width: 47vw;
+background-color: blue;
+min-height: 210px;
+padding: 10px;
+font-size: initial;
+}
+.about-right{
+display: inline-block;
+width: 47vw;
+background-color: rgb(54, 53, 54);
+min-height: 210px;
+padding: 10px;
+font-size: initial;
+}
+.mail{
+  color: white;
+ font-size: 10px;
+}
+.contact{
+  font-size: 40px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+}
+.footer-bottom{
+  background-color: black;
+  text-align: center;
+}
+.fb{
+  text-align: center;
+  display: inline-block;
+  padding: 15px 100px;
+  color: rgb(255, 247, 247);
+}
+
+
+
+
+
